@@ -1,0 +1,33 @@
+{
+    "states": [
+      {
+        "label": "PLACED",
+        "data": { "type": "PLACED" }
+      },
+      {
+        "label": "CERTIFIED",
+        "data": { "type": "CERTIFIED" }
+      },
+      {
+        "label": "VERIFIED",
+        "data": { "type": "VERIFIED" }
+      },
+      {
+        "label": "REPORTING",
+        "data": { "type": "REPORTING" }
+      },
+      {
+        "label": "CANCELLED",
+        "data": { "type": "CANCELLED" }
+      },
+      {
+        "label": "MODIFIED",
+        "data": { "type": "MODIFIED" }
+      },
+      {
+        "label": "CORRECTION",
+        "data": { "type": "CORRECTION" }
+      }
+    ]
+}
+  
